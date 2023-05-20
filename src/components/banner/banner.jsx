@@ -22,7 +22,7 @@ function Banner() {
                             loop: true,
                         }}
                     />
-                    <a className='resume' href="/assets/files/Oran_Wiriya_resume_2023.pdf" target="_blank" rel="noopener noreferrer">
+                    <a className='resume' href="files/Oran_Wiriya_resume_2023.pdf" target="_blank" rel="noopener noreferrer">
                         &lt;Download Resume /&gt;
                     </a>
                 </div>
